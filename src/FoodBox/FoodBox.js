@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function FoodBox({name, calories, image}) {
+export default function FoodBox({ name, calories, image }) {
     return (
         <div>
             <div className="box">
